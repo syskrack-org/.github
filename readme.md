@@ -1,0 +1,1 @@
+This repository contains the default configuration files for the organization repositories.
