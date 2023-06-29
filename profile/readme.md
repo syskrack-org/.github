@@ -6,7 +6,7 @@
 [![syskrack_giuseppeporsia](https://img.shields.io/badge/Follow:-syskrack__giuseppeporsia-E4405F?style=social&logo=instagram)](https://www.instagram.com/syskrack_giuseppeporsia/) 
 [![Syskrack_Lab](https://img.shields.io/badge/Syskrack_Lab-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/company/syskrack-lab/)
 
-![SyskrackLab logo](./assets/LogoSyskrackLab.png)
+![SyskrackLab logo](./profile/assets/LogoSyskrackLab.png)
 
 ## About us
 
